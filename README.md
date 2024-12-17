@@ -6,17 +6,17 @@ Bu depo, Windows için hazırlanmış .bat dosyalarını içermektedir. Bu dosya
 - **Script 2:** Hızlı Yardım.bat [Windows için gerekli yardımcı komutlar ve yapılandırma ayarlarını hızlı bir şekilde yapmanıza olanak sağlamaktadır.]
 - **Script 3:** Yazıcı Yönetim Scripti v1.0.bat [Windows bilgisayarınıza yüklü olan tüm yazıcıları görünülemek ve Spooler hizmetini durdurmak ve tekrar başlatmak için oluşturulmuştur.]
 
-## **Script 1:** Kullanımı
+## **Script 1:** Uzantıya Göre Klasör Oluşturma Kullanımı
 
 1. `.bat` dosyasını işlem yapmak istediğiniz klasör içerisinde çalıştırmak için çift tıklayın.
 2. İlgili komutlar otomatik olarak işlenecektir.
 
-## **Script 2:** Kullanımı
+## **Script 2:** Hızlı Yardım Kullanımı
 
 1. `.bat` dosyasını çalıştırmak için çift tıklayın.
 2. İlgili komutlar otomatik olarak işlenecektir.
 
-## **Script 3:** Kullanımı
+## **Script 3:** azıcı Yönetim Scripti v1.0 Kullanımı
 
 1. `.bat` dosyasını çalıştırmak için çift tıklayın.
 2. İlgili komutlar otomatik olarak işlenecektir.
