@@ -16,7 +16,7 @@ Bu depo, Windows için hazırlanmış .bat dosyalarını içermektedir. Bu dosya
 1. `.bat` dosyasını çalıştırmak için çift tıklayın.
 2. İlgili komutlar otomatik olarak işlenecektir.
 
-## **Script 3:** azıcı Yönetim Scripti v1.0 Kullanımı
+## **Script 3:** Yazıcı Yönetim Scripti v1.0 Kullanımı
 
 1. `.bat` dosyasını çalıştırmak için çift tıklayın.
 2. İlgili komutlar otomatik olarak işlenecektir.
