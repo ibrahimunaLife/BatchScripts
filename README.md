@@ -21,6 +21,10 @@ Bu depo, Windows için hazırlanmış .bat dosyalarını içermektedir. Bu dosya
 1. `.bat` dosyasını çalıştırmak için çift tıklayın.
 2. İlgili komutlar otomatik olarak işlenecektir.
 
+## **Script 4:** Reset Kullanımı
+1. `.bat` dosyasını çalıştırmak yönetici modunda açınız.
+2. İlgili komutlar otomatik olarak işlenecektir.
+
 ## İletişim
 
 Herhangi bir sorunuz varsa benimle iletişime geçebilir, güncellemeleri birlikte yapabiliriz:
