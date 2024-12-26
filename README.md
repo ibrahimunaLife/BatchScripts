@@ -28,7 +28,7 @@ Bu depo, Windows için hazırlanmış .bat dosyalarını içermektedir. Bu dosya
 1. `.bat` dosyasını çalıştırmak yönetici modunda açınız.
 2. İlgili komutlar otomatik olarak işlenecektir.
 
-## **Script 5:** Reset Kullanımı
+## **Script 5:** Çoklu Ekran Ping Atma Kullanımı
 1. .bat dosyasını çalıştırın.
 2. Ekrandaki talimatları takip ederek IP adreslerinizi girin.
 3. Ping sonuçlarını Windows Terminal'de eşzamanlı olarak izleyin.
