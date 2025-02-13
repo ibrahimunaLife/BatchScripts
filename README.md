@@ -6,7 +6,7 @@ Bu depo, Windows için hazırlanmış .bat dosyalarını içermektedir. Bu dosya
 - **Script 2:** Hızlı Yardım.bat [Windows için gerekli yardımcı komutlar ve yapılandırma ayarlarını hızlı bir şekilde yapmanıza olanak sağlamaktadır.]
 - **Script 3:** Yazıcı Yönetim Scripti v1.0.bat [Windows bilgisayarınıza yüklü olan tüm yazıcıları görünülemek ve Spooler hizmetini durdurmak ve tekrar başlatmak için oluşturulmuştur.]
 - **Script 4:** Resetr.Bat
-- **Script 5:** Çoklu Ekran Ping Atma.bat [Tek ekranda 4 bölüm üzerinden ping atma işlemini gerçekleştirmektedir.]
+- **Script 5:** Eski Windows Fotoğraf Görünüleyici.reg [Eski nesil fotoğraf görüntüleyici aktif etmek için hazırlanmıştır.]
 
 
 ## **Script 1:** Uzantıya Göre Klasör Oluşturma Kullanımı
@@ -32,6 +32,12 @@ Bu depo, Windows için hazırlanmış .bat dosyalarını içermektedir. Bu dosya
 1. .bat dosyasını çalıştırın.
 2. Ekrandaki talimatları takip ederek IP adreslerinizi girin.
 3. Ping sonuçlarını Windows Terminal'de eşzamanlı olarak izleyin.
+
+## **Script 5:** Eski Fotoğraf GÖrüntüleyici Kullanımı
+1. viewer.reg dosyasını çalıştırın.
+2. Ekrandaki talimatları kabul edip / onay vererek işlemi tamamlayın.
+
+
 
 ## Uyarı
 Proje başlatıldığında, Türkçe dil veya karakter sorunları nedeniyle hata almanız durumunda yapılması gerekenleri açıklıyor. Adım adım çözüm önerisi şu şekildedir:
