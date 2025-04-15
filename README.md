@@ -10,17 +10,14 @@ Bu depo, Windows için hazırlanmış .bat dosyalarını içermektedir. Bu dosya
 
 
 ## **Script 1:** Uzantıya Göre Klasör Oluşturma Kullanımı
-
 1. `.bat` dosyasını işlem yapmak istediğiniz klasör içerisinde çalıştırmak için çift tıklayın.
 2. İlgili komutlar otomatik olarak işlenecektir.
 
 ## **Script 2:** Hızlı Yardım Kullanımı
-
 1. `.bat` dosyasını çalıştırmak için çift tıklayın.
 2. İlgili komutlar otomatik olarak işlenecektir.
 
 ## **Script 3:** Yazıcı Yönetim Scripti v1.0 Kullanımı
-
 1. `.bat` dosyasını çalıştırmak için çift tıklayın.
 2. İlgili komutlar otomatik olarak işlenecektir.
 
@@ -33,10 +30,15 @@ Bu depo, Windows için hazırlanmış .bat dosyalarını içermektedir. Bu dosya
 2. Ekrandaki talimatları takip ederek IP adreslerinizi girin.
 3. Ping sonuçlarını Windows Terminal'de eşzamanlı olarak izleyin.
 
-## **Script 5:** Eski Fotoğraf GÖrüntüleyici Kullanımı
+## **Script 6:** Eski Fotoğraf GÖrüntüleyici Kullanımı
 1. viewer.reg dosyasını çalıştırın.
 2. Ekrandaki talimatları kabul edip / onay vererek işlemi tamamlayın.
 
+## **Script 7:** Windows Lisans Düzeltme Kullanımı
+1. `.bat` dosyasını çalıştırmak yönetici modunda açınız.
+2. İlgili komutlar otomatik olarak işlenecektir.
+3. Windows işletim sisteminde karşılaşılan lisans ve aktivasyon sorunlarını gidermek amacıyla hazırlanmış basit ve etkili bir komut dosyasıdır.
+4. Bu araç, ilgili sistem servislerini yeniden başlatarak ve varsayılan ürün anahtarını uygulayarak lisans sorunlarının çözümüne yardımcı olur.
 
 
 ## Uyarı
