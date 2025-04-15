@@ -51,6 +51,6 @@ Bu adımlar, dil ve karakter seti sorunlarını çözerek bat dosyanızın düzg
 ## İletişim
 
 Herhangi bir sorunuz varsa benimle iletişime geçebilir, güncellemeleri birlikte yapabiliriz:
-- **E-posta:** [Profil bağlantısı](mailto:ibrahimunal91@gmail.com)
-- **GitHub:** [Profil bağlantısı](https://github.com/ibrahimunaLife)
-- **Linkedin:** [Profil bağlantısı](https://www.linkedin.com/in/ibrahimunalife/)
+- **E-posta		:** [Profil bağlantısı](mailto:ibrahimunal91@gmail.com)
+- **GitHub		:** [Profil bağlantısı](https://github.com/ibrahimunaLife)
+- **Linkedin	:** [Profil bağlantısı](https://www.linkedin.com/in/ibrahimunalife/)
